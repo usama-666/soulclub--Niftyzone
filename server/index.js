@@ -25,7 +25,7 @@ const app = express();
 //Cors
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173","https://usama-666.github.io/soulclub--forntend/"]
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
