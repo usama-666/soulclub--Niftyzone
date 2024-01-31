@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #140c1f;
+  font-family: "Oxanium", "Poppins", sans-serif, cursive;
+  /* background-image: url("../src/assets/images/coverImage.png"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* scroll-behavior: smooth; */
+}
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.custom-toast-container {
+  .Toastify__toast {
+    background-color: #1f2a40;
+
+    /* Custom icon color */
+    .Toastify__icon {
+      color: #ad1aaf;
+    }
+
+    /* Custom progress bar color */
+    .Toastify__progress-bar {
+      background: #ad1aaf;
+    }
+  }
+}
+
+:root {
+  --toastify-color-light: #fff;
+  --toastify-color-dark: #121212;
+  --toastify-color-info: #ad1aaf;
+  --toastify-color-success: #ad1aaf;
+  --toastify-color-warning: #ad1aaf;
+  --toastify-color-error: #ad1aaf;
+  --toastify-color-transparent: rgba(255, 255, 255, 0.7);
+
+  --toastify-icon-color-info: var(--toastify-color-info);
+  --toastify-icon-color-success: var(--toastify-color-success);
+  --toastify-icon-color-warning: var(--toastify-color-warning);
+  --toastify-icon-color-error: var(--toastify-color-error);
+
+  --toastify-toast-width: 320px;
+  --toastify-toast-background: #fff;
+  --toastify-toast-min-height: 64px;
+  --toastify-toast-max-height: 800px;
+  --toastify-font-family: "Oxanium", "Poppins", sans-serif;
+  --toastify-z-index: 9999;
+
+  --toastify-text-color-light: #757575;
+  --toastify-text-color-dark: #fff;
+
+  --toastify-text-color-info: #fff;
+  --toastify-text-color-success: #fff;
+  --toastify-text-color-warning: #fff;
+  --toastify-text-color-error: #fff;
+
+  --toastify-spinner-color: #616161;
+  --toastify-spinner-color-empty-area: #e0e0e0;
+
+  --toastify-color-progress-light: linear-gradient(
+    to right,
+    #4cd964,
+    #5ac8fa,
+    #007aff,
+    #34aadc,
+    #5856d6,
+    #ff2d55
+  );
+  --toastify-color-progress-dark: #bb86fc;
+  --toastify-color-progress-info: var(--toastify-color-info);
+  --toastify-color-progress-success: var(--toastify-color-success);
+  --toastify-color-progress-warning: var(--toastify-color-warning);
+  --toastify-color-progress-error: var(--toastify-color-error);
+}
+/* scroll bar desigin */
+
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #140c1f;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #c778dd;
+  border-radius: 10px;
+}
+
+.nftImage {
+  /* filter: blur(5px); */
+  filter: grayscale(100%);
+}
+.nftCollectionImage {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+.nftCollectionImage:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  overflow: hidden;
+}

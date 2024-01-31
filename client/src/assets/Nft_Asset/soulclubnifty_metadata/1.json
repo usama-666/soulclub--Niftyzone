@@ -1,0 +1,34 @@
+{
+  "id": 1,
+  "name": "Soul #1",
+  "description": "Smiling extraterrestrials radiate happiness in shades of red and pink.",
+  "image": "https://apricot-advisory-cicada-105.mypinata.cloud/ipfs/QmVmeCzE5uDqJXx1o7GJaAY3M4w9UDoQttzmGMJiF8DW1c/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "Emote",
+      "value": "Amazed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Tribal Bones"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pretty brown"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Genesis Score",
+      "value": 34,
+      "max_value": 1000
+    }
+  ]
+}

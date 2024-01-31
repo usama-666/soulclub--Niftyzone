@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "name": "Soul #15",
+  "description": "Amazed and smiling aliens in shades of brown embrace the cosmos.",
+  "image": "https://apricot-advisory-cicada-105.mypinata.cloud/ipfs/QmVmeCzE5uDqJXx1o7GJaAY3M4w9UDoQttzmGMJiF8DW1c/15.jpg",
+  "attributes": [
+    {
+      "trait_type": "Emote",
+      "value": "Rugged"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Tribal Bones"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pretty Black"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Velorum"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Genesis Score",
+      "value": 354,
+      "max_value": 1000
+    }
+  ]
+}

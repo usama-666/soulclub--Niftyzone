@@ -1,0 +1,38 @@
+{
+  "id": 28,
+  "name": "Soul #28",
+  "description": "Friendly extraterrestrials wear shades of pink in cosmic celebration.",
+  "image": "https://apricot-advisory-cicada-105.mypinata.cloud/ipfs/QmVmeCzE5uDqJXx1o7GJaAY3M4w9UDoQttzmGMJiF8DW1c/28.jpg",
+  "attributes": [
+    {
+      "trait_type": "Emote",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Tribal Bones"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pretty Pink"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Velorum"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Genesis Score",
+      "value": 354,
+      "max_value": 1000
+    }
+  ]
+}

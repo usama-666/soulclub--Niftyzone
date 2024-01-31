@@ -1,0 +1,38 @@
+{
+  "id": 26,
+  "name": "Soul #26",
+  "description": "Happy extraterrestrials radiate joy with their expressive black eyes.",
+  "image": "https://apricot-advisory-cicada-105.mypinata.cloud/ipfs/QmVmeCzE5uDqJXx1o7GJaAY3M4w9UDoQttzmGMJiF8DW1c/26.jpg",
+  "attributes": [
+    {
+      "trait_type": "Emote",
+      "value": "Cool"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hypnotize"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Tribal Bones"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pretty Black"
+    },
+    {
+      "trait_type": "Galaxy",
+      "value": "Velorum"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Genesis Score",
+      "value": 354,
+      "max_value": 1000
+    }
+  ]
+}
