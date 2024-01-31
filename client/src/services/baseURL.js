@@ -1,6 +1,6 @@
 // baseUrl.js
 // const baseUrl = "http://localhost:5000"; // Update with your backend URL
-const baseUrl = "https://soul-club-niftyzone-final.vercel.app/api/v1"; // Update with your backend URL
+const baseUrl = "https://soulclub-niftyzone.vercel.app/api/v1"; // Update with your backend URL
 
 export default baseUrl;
 
